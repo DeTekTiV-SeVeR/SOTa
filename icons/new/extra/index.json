@@ -1,0 +1,184 @@
+{
+  "paracord": {
+    "short": "Паракорд",
+    "size": [
+      2,
+      1
+    ]
+  },
+  "iridium": {
+    "short": "Иридиум",
+    "size": [
+      1,
+      1
+    ]
+  },
+  "sas-drive": {
+    "short": "SAS",
+    "size": [
+      1,
+      1
+    ]
+  },
+  "rfid-reader": {
+    "short": "RFIDR",
+    "size": [
+      1,
+      1
+    ]
+  },
+  "fuel-conditioner": {
+    "short": "Присадка",
+    "size": [
+      1,
+      2
+    ]
+  },
+  "virtex": {
+    "short": "Virtex",
+    "size": [
+      1,
+      1
+    ]
+  },
+  "golden-egg": {
+    "short": "Яйцо",
+    "size": [
+      1,
+      1
+    ]
+  },
+  "veritas-pick": {
+    "short": "Veritas",
+    "size": [
+      1,
+      1
+    ]
+  },
+  "gphone": {
+    "short": "GPhone",
+    "size": [
+      1,
+      1
+    ]
+  },
+  "powerbank": {
+    "short": "Поверб.",
+    "size": [
+      1,
+      1
+    ]
+  },
+  "graphics-card": {
+    "short": "GPU",
+    "size": [
+      2,
+      1
+    ]
+  },
+  "flat-screwdriver": {
+    "short": "П отв.",
+    "size": [
+      1,
+      1
+    ]
+  },
+  "ripstop": {
+    "short": "Рипстоп",
+    "size": [
+      2,
+      1
+    ]
+  },
+  "defibrillator": {
+    "short": "Дефибр.",
+    "size": [
+      1,
+      1
+    ]
+  },
+  "gpx": {
+    "short": "GPX",
+    "size": [
+      1,
+      1
+    ]
+  },
+  "plexiglass": {
+    "short": "Оргстекло",
+    "size": [
+      1,
+      1
+    ]
+  },
+  "hydrogen-peroxide": {
+    "short": "H2O2",
+    "size": [
+      1,
+      1
+    ]
+  },
+  "ek-1": {
+    "short": "ЭК",
+    "size": [
+      1,
+      1
+    ]
+  },
+  "battered-book": {
+    "short": "Книга",
+    "size": [
+      1,
+      2
+    ]
+  },
+  "rechargeable-battery": {
+    "short": "Аккум",
+    "size": [
+      1,
+      1
+    ]
+  },
+  "compass": {
+    "short": "Компас",
+    "size": [
+      1,
+      1
+    ]
+  },
+  "ms2000-marker": {
+    "short": "MS2000",
+    "size": [
+      1,
+      1
+    ]
+  },
+  "weapon-repair-kit": {
+    "short": "Ремкомплект для оружия",
+    "size": [
+      3,
+      2
+    ]
+  },
+  "signal-jammer": {
+    "short": "Глушилка",
+    "size": [
+      1,
+      1
+    ]
+  },
+  "voice-recorder": {
+    "short": "Диктофон",
+    "size": [
+      2,
+      1
+    ]
+  },
+  "oko-scanner": {
+    "short": "«Око»",
+    "size": [
+      1,
+      1
+    ]
+  }
+}
